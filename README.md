@@ -11,35 +11,25 @@ Este proyecto es un servidor web básico desarrollado con **Node.js** y **Expres
 
 ## 🛠️ Instalación  
 
-0. **Crear el directorio del proyecto**  
-   ```sh
-   mkdir app
-   cd app
-   ```
-
 1. **Clonar el repositorio**  
    ```sh
    git clone https://github.com/DiegoMartindeAndres/servidor-FTI
    ```
 
-2. **Instalar dependencias**  
+2. **Acceder al directorio**  
+   ```sh
+   cd servidor-FTI/
+   ```
+
+3. **Instalar dependencias**  
    ```sh
    npm install
    ```
 
-3. **Ejecutar el servidor**  
+4. **Ejecutar el servidor**  
    ```sh
    node index.js
    ```
-
-4. **Configurar el puerto del servidor**  
-    Deberás indicar el puerto en el que deseas que el servidor escuche las conexiones.  Editado el fichero `index.js` y modificando:  
-    ```js
-    const PORT = 3000;
-    ```
-
-    Y cambiar 3000 por el puerto HTTP que te hemos asignado.
-
 
 ## 📁 Estructura del Proyecto  
 
@@ -54,6 +44,13 @@ app/
 │   │── img/         # Imágenes
 ```
 
+## 🌐 Acceso al Servidor
+
+El servidor estará disponible en `http://virtual.infor.uva.es:PUERTO_HTTP/`.
+
+No olvides cmabiar:
+
+- **PUERTO_HTTP** por el puerto que te hemos asignado.
 
 ## 🔧 Personalización  
 

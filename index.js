@@ -2,7 +2,7 @@ const express = require('express');
 const path = require('path');
 
 const app = express();
-const PORT = 3000;
+const PORT = 8080;
 
 // Middleware para servir solo los archivos dentro de ./html/
 app.use(express.static(path.join(__dirname, 'html')));
