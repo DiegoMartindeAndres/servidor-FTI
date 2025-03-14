@@ -8,26 +8,18 @@ Este proyecto es un servidor web básico desarrollado con **Node.js** y **Expres
 - 📡 Registra cada conexión en la consola.  
 - 🚀 Fácil de ejecutar y configurar.  
 
-## 📁 Estructura del Proyecto  
-
-```
-app/
-│── index.js          # Archivo principal del servidor
-│── package.json      # Configuración del proyecto
-│── html/             # Carpeta pública
-│   │── index.html    # Página principal
-│   │── css/         # Hojas de estilo
-│   │── js/          # Scripts
-│   │── img/         # Imágenes
-```
 
 ## 🛠️ Instalación  
 
-1. **Clonar el repositorio**  
+0. **Crear el directorio del proyecto**  
    ```sh
    mkdir app
    cd app
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   ```
+
+1. **Clonar el repositorio**  
+   ```sh
+   git clone https://github.com/DiegoMartindeAndres/servidor-FTI
    ```
 
 2. **Instalar dependencias**  
@@ -47,6 +39,21 @@ app/
     ```
 
     Y cambiar 3000 por el puerto HTTP que te hemos asignado.
+
+
+## 📁 Estructura del Proyecto  
+
+```
+app/
+│── index.js          # Archivo principal del servidor
+│── package.json      # Configuración del proyecto
+│── html/             # Carpeta pública
+│   │── index.html    # Página principal
+│   │── css/         # Hojas de estilo
+│   │── js/          # Scripts
+│   │── img/         # Imágenes
+```
+
 
 ## 🔧 Personalización  
 
