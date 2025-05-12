@@ -1,0 +1,32 @@
+[
+  {
+    "id": "01",
+    "nombre": "Madrid",
+    "pais": "España",
+    "atracción turística": "Gran Vía"
+  },
+  {
+    "id": "02",
+    "nombre": "París",
+    "pais": "Francia",
+    "atracción turística": "Tour Eiffel"
+  },
+  {
+    "id": "03",
+    "nombre": "Roma",
+    "pais": "Italia",
+    "atracción turística": "Fontana di Trevi"
+  },
+  {
+    "id": "04",
+    "nombre": "Santorini",
+    "pais": "Grecia",
+    "atracción turística": "Iglesia de las tres campanas"
+  },
+  {
+    "id": "05",
+    "nombre": "patata",
+    "pais": "patatin",
+    "atracción turística": "patato city"
+  }
+]
