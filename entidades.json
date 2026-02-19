@@ -1,15 +1,15 @@
 [
   {
     "id": "01",
-    "nombre": "Madrid",
+    "nombre": "Segovia",
     "pais": "España",
-    "atracción turística": "Gran Vía"
+    "atracción turística": "Acueducto romano"
   },
   {
     "id": "02",
     "nombre": "París",
     "pais": "Francia",
-    "atracción turística": "Tour Eiffel"
+    "atracción turística": "Torre Eiffel"
   },
   {
     "id": "03",
